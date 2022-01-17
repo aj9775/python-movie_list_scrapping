@@ -10,3 +10,5 @@ the information about the movies into a json file.
 
 ![image](https://user-images.githubusercontent.com/37789394/149748043-b782dbe1-e358-4af1-b8ca-4be80c3d2de9.png)
 
+The file movielist_WB_1.xlsx is the excel file generated after running the notebook and the json for the first movie in it is The_Book_of_Eli.json
+If we remove the _**break**_ statement from the _**downloadJsonFile**_ function then it should generate a json file for every movie in the list.
